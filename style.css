@@ -1,0 +1,42 @@
+body{background-color:white;
+	
+}
+
+div{	position: absolute;
+	left:60%;
+	top:52%;
+	width:12%;
+	height:12%;
+	border-bottom:3px ridge black;
+	text-align: right;
+	font-weight:bold;
+	}
+img{
+	height:40%;
+	position: absolute;
+	left:61%;
+	top:20%;
+}
+input{
+	background-color: grey;
+	border-radius: 10px;
+	width:10%;
+	height: 5%;
+	font-weight: bold;
+	font-size:100%;
+}
+#first{
+	position: absolute;
+	left:20%;
+	top:10%;
+}
+#second{
+	position: absolute;
+	left:45%;
+	top:10%;
+}
+#third {
+	position: absolute;
+	left: 70%;
+	top:10%;
+}
