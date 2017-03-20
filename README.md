@@ -1,6 +1,9 @@
 # electrik-scheme
 
 Takes as an argument scheme that look like this, and turn it into graphic and output position. 
+
+
+
 scheme = {
         name: 'gate',
         type: 'XOR',
